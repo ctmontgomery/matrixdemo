@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<manifest identifier="Nlhi6YsOeJV_X_fxc19DsZEMhoiqrH9g5ONj-4lz" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Demo: NOIRLab Organizational Structure: How to Thrive in a Matrix</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Demo: NOIRLab Organizational Structure: How to Thrive in a Matrix</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+      <file href="scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/main.bundle.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Italic.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Black.woff" />
+<file href="scormcontent/assets/uiput6aTcitGMJKJ_small_1455119618.jpg" />
+<file href="scormcontent/assets/dmaSKuJ_jWmmK3mX_nJgrgbpsvEAWjLg0.jpg" />
+<file href="scormcontent/assets/4FDkqSmbDwag8wZN_mountains.jpg" />
+<file href="scormcontent/assets/NBv9otFXVhhHK4PP_TOEIN2-0nmYo2Qb6.jpg" />
+<file href="scormcontent/assets/jL9tfgZBcmi1JRR8_ZHvG0juswUdDKKli.png" />
+<file href="scormcontent/assets/eWofpWaWhPGC1ERj_ravTzvY3nS0H5Sx2.jpg" />
+<file href="scormcontent/assets/3_DSNCn00SJXhkRP_quote_background.jpg" />
+<file href="scormcontent/assets/nz188ZmSPu6caFp5_p2Jju04rFN8y-6d2.jpg" />
+<file href="scormcontent/assets/qNVDFJjCzarAfQgL_avatar.jpg" />
+<file href="scormcontent/assets/oaUdEZUWSY1HQVaQ_YLJTkeZcSieH4P-S.jpg" />
+<file href="scormcontent/assets/0c8TfNUdBN5QvUrJ_6C6sTS7hX9L9EJXb.jpg" />
+<file href="scormcontent/assets/jAtfRFQz3H4JAIxj_WlrxtIMHPRsY6FWu.jpg" />
+<file href="scormcontent/assets/iUJUhJowK56ojen5_uWgjJBImcz5OPn-3-stock-image.jpg" />
+<file href="scormcontent/assets/bU-OBm7ViBJZ_FXJ_2R6uRvPbLtkZw2DN-stock-image.jpg" />
+<file href="scormcontent/assets/s5RjpdZcLukedqNt_QCJ1hClYv1cTOZNd.jpg" />
+<file href="scormcontent/assets/tc1imxQU2IYdrhI9_bTOZuMfmuaoGRuXN.jpg" />
+
+    </resource>
+  </resources>
+</manifest>
